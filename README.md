@@ -1,37 +1,21 @@
-## Welcome to GitHub Pages
+# Our Pledge
 
-You can use the [editor on GitHub](https://github.com/librepower/librepower.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+We, the undersigned, are employees of technology organizations and companies around the world.  We participate in managing, designing, and generally creating software with relation to AI systems. We acknowledge the threat of deploying far-reaching AI systems and the impact it has upon all of us, including the world's most vulnerable populations. With this pledge, we affirm our commitment to a future that respects and protects our essential Freedoms.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+We believe that all are entitled to the following Freedoms when subjected to AI systems:
 
-### Markdown
+- The ability to audit automated decision-making systems.
+- Demand accountability & responsibility from those who make AI systems.
+- Appeal decisions made by AI systems.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+We pledge to accept nothing less than the Freedoms stated above. In order to fight to protect these freedoms, we commit to the following actions:
 
-```markdown
-Syntax highlighted code block
+- AI systems we contribute to building are reproducible in their original form.
+    - We will release our code containing our model under Free licenses.
+    - We will release our training data sets under open licenses.
+    - We will provide adequate documentation for others to reasonably set up and audit our code.
+- AI systems are responsibly designed by performing and publishing impact and risk assessments with regards to what we create and the side effects it may have.
+- Decisions made by our AI systems can be appealed to provide additional human input & context.
 
-# Header 1
-## Header 2
-### Header 3
+We, as creators of AI systems, pledge to respect the Freedoms of our end users. We pledge to push for accountability within the organizations in which we work. Too much damage has been done already by organizations who have placed profit over the Freedom of their users, customers, and fellow humans. We pledge to work towards sustainable, ethical AI systems, to speak up for our Freedoms, and to stand against placing personal interest over our fellow humans.
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/librepower/librepower.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
