@@ -21,5 +21,5 @@ We, as creators of AI systems, pledge to respect the Freedoms of our end users. 
 
 Signed,
 
-[Justin Flory](https://twitter.com/jflory7)
-[Michael Nolan](https://twitter.com/__nolski__)
+- [Justin Flory](https://twitter.com/jflory7)
+- [Michael Nolan](https://twitter.com/__nolski__)
