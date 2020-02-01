@@ -19,3 +19,7 @@ We pledge to accept nothing less than the Freedoms stated above. In order to fig
 
 We, as creators of AI systems, pledge to respect the Freedoms of our end users. We pledge to push for accountability within the organizations in which we work. Too much damage has been done already by organizations who have placed profit over the Freedom of their users, customers, and fellow humans. We pledge to work towards sustainable, ethical AI systems, to speak up for our Freedoms, and to stand against placing personal interest over our fellow humans.
 
+Signed,
+
+[Justin Flory](https://twitter.com/jflory7)
+[Michael Nolan](https://twitter.com/__nolski__)
